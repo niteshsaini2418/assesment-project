@@ -1,0 +1,49 @@
+              
+select{
+height:40px;
+
+}
+.showaaaa{
+display: flex;
+
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+}
+.movie{
+display:flex;
+flex-wrap: wrap;
+width:300px;
+box-shadow: 5px 10px 8px 10px #3b1909;
+
+}
+
+.anim{
+display:flex;
+flex-wrap: wrap;
+width:300px;
+margin: 10px;
+box-shadow: 5px 10px 8px 10px #3b1909;
+}
+.tv{
+display:flex;
+flex-wrap: wrap;
+width:300px;
+margin: 10px;
+box-shadow: 5px 10px 8px 10px #3b1909;
+}
+
+img{
+height:300px;
+width:250px;
+
+}
+
+#inputSearch{
+    margin-left: 300px;
+    width:200px;
+}
+
+#search{
+    margin-left: 10px;
+}
